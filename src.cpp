@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include "SDL.h"
 #undef main
-#include <glut.h>
+
 
 
 
