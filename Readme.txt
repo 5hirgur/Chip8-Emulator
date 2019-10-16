@@ -5,7 +5,7 @@
 
 
 
-
+You will require SDL2 for this project
 
 
 To run a ROM with the emulator simply drang n' drop a ROM into the .exe file(compile the code for a windows command line application),the game/s should run just fine.
