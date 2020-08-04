@@ -1,5 +1,5 @@
  ____________________________________________________________
-|This is a repo for an emulator for the Chi8 system          |
+|This is a repo for an emulator for the Chip8system          |
 |I have also included some ROMS to use ~                     |
 |____________________________________________________________|
 
